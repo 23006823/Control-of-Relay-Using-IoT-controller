@@ -1,7 +1,7 @@
 ## NAME: M GAYATHIRI ROSHINI
 ## REG NO:212223110012
 
-# Control-of-Relay-Using-IoT-controller
+# Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
